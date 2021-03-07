@@ -32,4 +32,4 @@ origianl paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adver
 `output/<dataset_name>/fake_B`
 
 ## Acknowledgments 
-Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN);  
+Code is based on Pytorch implementation of CycleGAN (https://github.com/aitorzip/PyTorch-CycleGAN)(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
