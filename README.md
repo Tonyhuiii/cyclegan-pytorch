@@ -13,10 +13,10 @@ origianl paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adver
 
 ## Prepare Dataset
 ● Build your own dataset by setting up the following directory structure:  
-`datasets/<dataset_name>/train/A　　　# Contains domain A images (MUSE image)`  
-`datasets/<dataset_name>/train/B　　　# Contains domain B images (HE image)`    　　　
-`datasets/<dataset_name>/test/A　　　　# Contains domain A images (MUSE image)`  
-`datasets/<dataset_name>/test/B　　　　# Contains domain A images (HE image)`  　　
+`datasets/<dataset_name>/train/A　　　# Contains domain A images (MUSE image)`    
+`datasets/<dataset_name>/train/B　　　# Contains domain B images (HE image)`      　　　
+`datasets/<dataset_name>/test/A　　　　# Contains domain A images (MUSE image)`    
+`datasets/<dataset_name>/test/B　　　　# Contains domain A images (HE image)`    　　
 ## Train
 ● To view training results and loss plots, run `visdom` in another terminal and click the URL (http://localhost:8097).  
 ● Train the model:     
