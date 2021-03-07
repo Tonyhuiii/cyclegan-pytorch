@@ -1,6 +1,6 @@
 # cyclegan-pytorch
 origianl paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (https://arxiv.org/abs/1703.10593).  
-![](https://github.com/Tonyhuiii/color-transform/blob/master/1.jpeg).
+![](https://github.com/Tonyhuiii/cyclegan-pytorch/blob/master/1.png).
 ## Environment
 ● Ubuntu 18.04  
 ● NVIDIA TITIAN RTX  
